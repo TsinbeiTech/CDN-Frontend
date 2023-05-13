@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.96a3e627.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"other/xtian.md","lastUpdated":null}'),r={name:"other/xtian.md"};function n(o,s,c,i,p,d){return a(),e("div")}const m=t(r,[["render",n]]);export{l as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,a as n}from"./app.96a3e627.js";const h=JSON.parse('{"title":"赞助榜","description":"","frontmatter":{"title":"赞助榜"},"headers":[],"relativePath":"donate.md","lastUpdated":null}'),d={name:"donate.md"},a=n("",5),r=[a];function s(c,i,y,x,g,o){return l(),e("div",null,r)}const p=t(d,[["render",s]]);export{h as __pageData,p as default};
